@@ -1,1 +1,1 @@
-# testable-pipeline-for-ycd-j-c
+# java-mentoring
